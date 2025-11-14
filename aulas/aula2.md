@@ -202,7 +202,7 @@ drwxr-xr-x  6 diego diego   4096 Nov 13 15:02 downloads
 
  As flags são extremamente comuns em todos os programas, existem dezenas, ou até centenas,
 para diversos deles, e obviamente não conseguiremos decorar todas, por esse motivo, existe
-o comando `man`, ele nos permite ler um manual de cada programa, basta usar 'man ls` para
+o comando `man`, ele nos permite ler um manual de cada programa, basta usar `man ls` para
 ver uma explicação de como usar o `ls`. As paginas de manual são formatadas de uma forma especial,
 algo que você aprenderá a interpretar melhor com o tempo, mas mesmo sem saber os significado
 especial de algumas coisas (e.g. `<abc>` = "abc" é obrigatorio, `[abc]` = "abc" não é obrigatorio, etc),
