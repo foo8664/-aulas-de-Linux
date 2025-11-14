@@ -1,0 +1,10 @@
+{"version": 2, "width": 120, "height": 32, "timestamp": 1763157694, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.021582, "o", "\u001b[?2004h\u001b]0;diego@UbuntuBox: ~/aulas-linux/playground\u0007\u001b[01;32mdiego@UbuntuBox\u001b[00m:\u001b[01;34m~/aulas-linux/playground\u001b[00m$ "]
+[0.228434, "o", "l"]
+[0.396506, "o", "s"]
+[0.677278, "o", "\r\n\u001b[?2004l\r"]
+[0.683366, "o", "\u001b[0m\u001b[01;34mdir0\u001b[0m  \u001b[01;34mdir1\u001b[0m  \u001b[01;34mdir2\u001b[0m"]
+[0.684281, "o", "\r\n"]
+[0.686332, "o", "\u001b[?2004h\u001b]0;diego@UbuntuBox: ~/aulas-linux/playground\u0007\u001b[01;32mdiego@UbuntuBox\u001b[00m:\u001b[01;34m~/aulas-linux/playground\u001b[00m$ "]
+[1.51739, "o", "\u001b[?2004l\r\r\n"]
+[1.517717, "o", "exit\r\n"]

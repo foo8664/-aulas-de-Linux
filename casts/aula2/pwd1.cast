@@ -1,0 +1,9 @@
+{"version": 2, "width": 120, "height": 32, "timestamp": 1763076143, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.023228, "o", "\u001b[?2004h\u001b]0;diego@UbuntuBox: ~/aulas-linux/exec\u0007\u001b[01;32mdiego@UbuntuBox\u001b[00m:\u001b[01;34m~/aulas-linux/exec\u001b[00m$ "]
+[0.727271, "o", "p"]
+[0.804264, "o", "w"]
+[0.887127, "o", "d"]
+[1.142514, "o", "\r\n\u001b[?2004l\r/home/diego/aulas-linux/exec\r\n"]
+[1.142746, "o", "\u001b[?2004h"]
+[1.142903, "o", "\u001b]0;diego@UbuntuBox: ~/aulas-linux/exec\u0007\u001b[01;32mdiego@UbuntuBox\u001b[00m:\u001b[01;34m~/aulas-linux/exec\u001b[00m$ "]
+[1.606588, "o", "\u001b[?2004l\r\r\nexit\r\n"]
